@@ -1,5 +1,5 @@
 # Sureni_Sumathipala_syngap1
-%%%% function ReadANDSave_SelectEthovisionDat(tcol,dcol)
+%%%% function ReadANDSave_SelectEthovisionDat(tcol,dcol)  
 %%% THIS Matlab FUNCTION READS MULTI COLUMN, ';' DELIMITED DATA FILE OF TEXTS AND
 %%% NUMERIC VALUES. MISSING DISPLACEMENT DATA ADN CORRESPONDING TIME POINTS
 %%% ARE REMOVED. MULTIPLE FILES CAN BE READ EACH TIME.
